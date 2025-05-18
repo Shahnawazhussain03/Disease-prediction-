@@ -1,2 +1,2 @@
 # Disease-prediction-
-Disease prediction project is creating during my technical training 
+Disease prediction project :I have created this project during my technical training 
